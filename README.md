@@ -8,6 +8,4 @@ In this profile, you will discovery a little bit for **Rennan Marcile Lazarini**
 
 
 [![](https://github-readme-stats.vercel.app/api?username=Rennanml)](https://github.com/anuraghazra/github-readme-stats)
-
-
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rennanml)](https://github.com/anuraghazra/github-readme-stats)
