@@ -1,13 +1,17 @@
-# Welcome to Rennanml GitHub!
 ---
-In this profile, you will discovery a little bit for **Rennan Marcile Lazarini**, who studies **System Analysis and Development** on IFSP São Carlos. Connect with me!
+
+# Bem-vindo ao perfil do Rennanml no GitHub!
+---
+Neste perfil, você descobrirá um pouco sobre **Rennan Marcile Lazarini**, que estuda **Análise e Desenvolvimento de Sistemas** no IFSP São Carlos. Conecte-se comigo!
 ---
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML Badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![CSS Badge](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![C Badge](https://img.shields.io/badge/C-3776AB?style=for-the-badge&logo=c&logoColor=white)
-![Javascript Badge](https://img.shields.io/badge/javascript-239120?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML Badge](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS Badge](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C Badge](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Rennanml&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Rennanml&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![](https://github-readme-stats.vercel.app/api?username=Rennanml)](https://github.com/anuraghazra/github-readme-stats)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rennanml)](https://github.com/anuraghazra/github-readme-stats)
+---
+
