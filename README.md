@@ -6,7 +6,7 @@ In this profile, you will discovery a little bit for **Rennan Marcile Lazarini**
 ![HTML Badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![C Badge](https://img.shields.io/badge/C-3776AB?style=for-the-badge&logo=c&logoColor=white)
-![Javascript Badge](https://img.shields.io/badge/javascipt-239120?style=for-the-badge&logo=javascript&logoColor=white)
+![Javascript Badge](https://img.shields.io/badge/javascript-239120?style=for-the-badge&logo=javascript&logoColor=white)
 
 
 [![](https://github-readme-stats.vercel.app/api?username=Rennanml)](https://github.com/anuraghazra/github-readme-stats)
