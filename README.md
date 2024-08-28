@@ -10,7 +10,6 @@ Neste perfil, você descobrirá um pouco sobre **Rennan Marcile Lazarini**, que 
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Rennanml&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Rennanml&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
