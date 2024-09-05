@@ -14,8 +14,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas pelo Instituto Federal d
 ![CSS Badge](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Scrum Badge](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
-![Kanban Badge](https://img.shields.io/badge/Kanban-008080?style=for-the-badge&logo=kanban&logoColor=white)
+
 
 [![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Rennanml&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
