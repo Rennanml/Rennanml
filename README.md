@@ -1,9 +1,10 @@
 ---
+# Olá, eu sou o Rennan Marcile Lazarini! 👋
+---
 
-# Bem-vindo ao perfil do Rennanml no GitHub!
----
-Neste perfil, você descobrirá um pouco sobre **Rennan Marcile Lazarini**, que estuda **Análise e Desenvolvimento de Sistemas** no IFSP São Carlos. Conecte-se comigo!
----
+
+### Sobre mim
+Sou estudante de Análise e Desenvolvimento de Sistemas pelo Instituto Federal de São Paulo (IFSP) e apaixonado por tecnologia e desenvolvimento de software. No meu tempo livre, gosto de aprender novas linguagens e tecnologias, com foco em desenvolvimento de sistemas e soluções inovadoras.
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML Badge](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
